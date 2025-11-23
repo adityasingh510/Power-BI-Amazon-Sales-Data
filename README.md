@@ -1,3 +1,11 @@
+Amazon Sales Data Dashboard (Power BI)-----
+
+This repository contains a Power BI dashboard built to analyze Amazon sales data. The purpose of the dashboard is to summarize key business metrics and make it easier to understand sales and profit patterns across different categories, regions, and time periods.
+
+
+
+
+
 Overview----
 
 The dashboard provides a consolidated view of Amazon’s sales dataset. It includes multiple visuals that help break down sales performance, profit trends, and order behavior. 
